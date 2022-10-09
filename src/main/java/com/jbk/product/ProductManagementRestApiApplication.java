@@ -10,6 +10,8 @@ public class ProductManagementRestApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProductManagementRestApiApplication.class, args);
+	System.out.println("developer1 changes");
+	
 	}
 	
 	@Bean
